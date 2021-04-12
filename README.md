@@ -1,2 +1,2 @@
-# ArtWebsite
+# ArtWebsite using php and mysql
  
